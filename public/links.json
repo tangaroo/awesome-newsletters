@@ -1,0 +1,230 @@
+[
+    {
+      "heading": "General Topics",
+      "rows": [
+        {
+          "title": "10 Things",
+          "link": "https://10.yourmajesty.co/",
+          "body": "For curious people, by Your Majesty Co."
+        },
+        {
+          "title": "Dense Discovery",
+          "link": "https://www.densediscovery.com/",
+          "body": "General thought provoking topics"
+        },
+        {
+          "title": "Don't Think about the Future",
+          "link": "http://tinyletter.com/chrbutler",
+          "body": "Design, technology and staying human"
+        },
+        {
+          "title": "Farnam Street",
+          "link": "https://fs.blog/",
+          "body": "Lots of brain food and ideas"
+        },
+        {
+          "title": "Fuck I Wish I Knew That",
+          "link": "https://fuckiwishiknewth.at/",
+          "body": "A personal link list from Piet Terheyden"
+        },
+        {
+          "title": "Hulry",
+          "link": "https://hulry.com/newsletter",
+          "body": "Be 1% better each week"
+        },
+        {
+          "title": "Internet is Beautiful",
+          "link": "https://www.internetisbeautiful.co/",
+          "body": "Discover the awesome depths of the internet"
+        },
+        {
+          "title": "James Clear",
+          "link": "https://jamesclear.com/newsletter",
+          "body": "Weekly wisdom of ideas, quotes and one question"
+        },
+        {
+          "title": "Nice News",
+          "link": "https://nicenews.com/",
+          "body": "Wake up everyday to positive news"
+        },
+        {
+            "title": "People and Blogs",
+            "link": "https://peopleandblogs.com/",
+            "body": "A weekly newsletter about interesting people and their blogs"
+          },
+        {
+          "title": "Sitting Pretty",
+          "link": "https://sittingpretty.bulletin.com/",
+          "body": "Interiors, design and other things"
+        },
+        {
+          "title": "Wait by Why",
+          "link": "https://www.waitbutwhy.com",
+          "body": "A new post every sometimes"
+        }
+      ]
+    },
+  
+    {
+      "heading": "Product",
+      "rows": [
+        {
+          "title": "AngelList Weekly",
+          "link": "https://angel.co/newsletters",
+          "body": "Best of the startup world, curated weekly"
+        },
+        {
+          "title": "Archived",
+          "link": "https://archived.company/",
+          "body": "Humble beginnings of famous tech companies"
+        },
+        {
+          "title": "Bring the Donuts",
+          "link": "https://www.bringthedonuts.com",
+          "body": "Product management and the future of work"
+        },
+        {
+          "title": "Fintech Ruimations",
+          "link": "https://fintechruminations.com/",
+          "body": "Fintech and decentralised finance"
+        },
+        {
+          "title": "Fintech by Sifted",
+          "link": "https://sifted.eu/sector/fintech/",
+          "body": "Latest Fintech news"
+        },
+        {
+          "title": "Magur News",
+          "link": "https://magur.news/",
+          "body": "Design, product and development"
+        },
+        {
+          "title": "Proof of Concept",
+          "link": "https://www.generalist.com/",
+          "body": "Learn what matters in tech and venture capital"
+        },
+        {
+          "title": "The Generalist",
+          "link": "https://tldr.tech/",
+          "body": "Tech, science and coding"
+        },
+        {
+          "title": "TLDR",
+          "link": "https://tldr.tech/",
+          "body": "Tech, science and coding"
+        },
+        {
+            "title": "Unicorner",
+            "link": "https://unicorner.news/",
+            "body": "Bringing tomorrow's unicorns straight to your inbox"
+          }
+      ]
+    },
+  
+    {
+      "heading": "Design & Code",
+      "rows": [
+        {
+          "title": "A11Y Weekly",
+          "link": "https://a11yweekly.com/",
+          "body": "A weekly dose of web accessibility"
+        },
+        {
+          "title": "Awesome Digest",
+          "link": "https://awesomedigest.info/index.html",
+          "body": "Stay current. Powered by GitHub's awesome lists"
+        },
+        {
+          "title": "Case Study Club",
+          "link": "https://www.casestudy.club/",
+          "body": "Curated UX case studies, sent bi-weekly"
+        },
+        {
+          "title": "Code the Web",
+          "link": "https://codetheweb.blog/newsletter/",
+          "body": "Learn web development"
+        },
+        {
+          "title": "CSS Layout News",
+          "link": "https://www.csslayoutnews.com",
+          "body": "All about what’s going on with CSS"
+        },
+        {
+          "title": "Design Spells",
+          "link": "https://designspells.com/",
+          "body": "Design details that feel like magic"
+        },
+        {
+          "title": "Fresh Fonts",
+          "link": "https://freshfonts.io",
+          "body": "Typography projects and free fonts"
+        },
+        {
+          "title": "The History of the Web",
+          "link": "https://thehistoryoftheweb.com/",
+          "body": "The history of the web and people behind it"
+        },
+        {
+          "title": "Javascript Weekly",
+          "link": "https://javascriptweekly.com/",
+          "body": "JavaScript articles, news and cool projects"
+        },
+        {
+            "title": "Product Disrupt",
+            "link": "https://productdisrupt.com/",
+            "body": "A list of resources to learn product design"
+          },
+        {
+          "title": "Sidebar",
+          "link": "https://www.sidebar.io",
+          "body": "Design, product and development"
+        },
+        {
+          "title": "Tiptoptypetips",
+          "link": "https://tiptoptypetips.substack.com/",
+          "body": "An irregular newsletter about typography"
+        },
+        {
+          "title": "User Onboard",
+          "link": "https://www.useronboard.com/",
+          "body": "All about onboarding your users"
+        },
+        {
+          "title": "User Weekly",
+          "link": "https://www.userweekly.com/",
+          "body": "What's happening in user research?"
+        },
+        {
+          "title": "UX Design Weekly",
+          "link": "https://uxdesignweekly.com/",
+          "body": "Best UX links of the week"
+        }
+      ]
+    },
+    {
+      "heading": "Fun Stuff",
+      "rows": [
+        {
+          "title": "Boomer Email",
+          "link": "https://boomer.email/",
+          "body": "A weekly dose of real emails from real boomers"
+        },
+        {
+          "title": "Now I Know",
+          "link": "https://nowiknow.com/",
+          "body": "Learn something new everyday"
+        },
+        {
+          "title": "Workspaces",
+          "link": "https://www.workspaces.xyz/",
+          "body": "Workspaces from inspiring creatives"
+        },
+        {
+          "title": "Would you Rather",
+          "link": "https://wouldyourather.fun/",
+          "body": "Weekly(ish) illustrated would you rather scenarios"
+        }
+      ]
+    }
+  ]
+  
