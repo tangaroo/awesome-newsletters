@@ -3,6 +3,14 @@ import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
 
+@font-face {
+  font-family: Instrument Serif;
+  src: url(/InstrumentSerif-Regular.ttf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+
+
 :root {
   /* Colours */
   --text: #F1F1F1;
