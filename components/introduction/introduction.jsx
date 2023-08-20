@@ -19,7 +19,11 @@ const IntroductionComponent = () => {
 const Content = styled.div`
   max-width: 100%;
   text-align: center;
-  margin: 0px 0px var(--space16) 0px;
+  margin: 0px var(--space16) var(--space32) var(--space16);
+
+  @media (min-width: 600px) {
+    margin: 0px 0px var(--space32) 0px;
+  }
 `;
 
 export default IntroductionComponent;
