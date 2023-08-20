@@ -1,6 +1,6 @@
 import Head from "next/head";
 
-const HeadComponent = () => {
+const SEO = () => {
   const seo = {
     title: "Awesome Newsletters",
     description: "A simple collection of awesome online newsletters",
@@ -22,9 +22,10 @@ const HeadComponent = () => {
       <meta name="twitter:image" content={seo.image} />
 
       <link rel="icon" href="/favicon.svg" />
+      <link rel="shortcut icon" href="/favicon.svg" />
       <meta httpEquiv="Content-Type" content="text/html; charset=utf-8"></meta>
     </Head>
   );
 };
 
-export default HeadComponent;
+export default SEO;
