@@ -2,15 +2,15 @@ import React from "react";
 import tables from "../../public/links.json";
 
 const TableComponent = () => {
-  return tables.map((table) => (
-    <table key={table.id}>
+  return tables.map((table, i) => (
+    <table key={`table-${i}`}>
       <tbody>
         <tr>
           <th>{table.heading}</th>
         </tr>
-        {table.rows.map((row) => {
+        {table.rows.map((row, j) => {
           return (
-            <tr key={table.rows.id}>
+            <tr key={`row-${j}`}>
               <td>
                 <a href={row.link} target="_blank">
                   {row.title}

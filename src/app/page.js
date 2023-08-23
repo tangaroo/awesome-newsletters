@@ -1,5 +1,6 @@
 "use client";
 import { GlobalStyle } from "../../styles/styles.js";
+import Head from "next/head";
 
 import SEO from "../../components/head/head.jsx";
 import HeaderComponent from "../../components/header/header.jsx";

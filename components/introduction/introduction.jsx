@@ -4,11 +4,15 @@ import styled from "styled-components";
 import data from "../../public/links.json";
 
 const IntroductionComponent = () => {
+  const total = data.reduce((accumulator, table) => {
+    return accumulator + table.rows.length;
+  }, 0);
+
   return (
     <Content>
       <p>
-        Not all newsletters are bad. Here is a a list with some useful ones that
-        are worth subscribing to. Some may tinker some ideas, provide
+        Not all newsletters are bad. Here is a a list with {total} useful ones
+        that are worth subscribing to. Some may tinker some ideas, provide
         inspiration, help with new updates or even just provide some good ol’
         freebies.
       </p>
