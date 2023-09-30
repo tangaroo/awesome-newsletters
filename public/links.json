@@ -99,6 +99,11 @@
           "body": "Latest Fintech news"
         },
         {
+          "title": "Founder Secrets",
+          "link": "https://www.foundersecrets.io/",
+          "body": "Advice from the the world's best startup founders"
+        },
+        {
           "title": "Magur News",
           "link": "https://magur.news/",
           "body": "Design, product and development"
@@ -148,6 +153,11 @@
           "title": "Code the Web",
           "link": "https://codetheweb.blog/newsletter/",
           "body": "Learn web development"
+        },
+        {
+          "title": "Concept Seekers",
+          "link": "https://conceptseeker.com/",
+          "body": "Design newsletters for senior designers"
         },
         {
           "title": "CSS Layout News",
