@@ -58,11 +58,6 @@
             "body": "A weekly newsletter about interesting people and their blogs"
           },
         {
-          "title": "Sitting Pretty",
-          "link": "https://sittingpretty.bulletin.com/",
-          "body": "Interiors, design and other things"
-        },
-        {
           "title": "Wait by Why",
           "link": "https://www.waitbutwhy.com",
           "body": "A new post every sometimes"
@@ -119,9 +114,19 @@
           "body": "Tech, science and coding"
         },
         {
+          "title": "Tiny Startups",
+          "link": "https://tinystartups.beehiiv.com/",
+          "body": "Newsletter for bootstrapped founders"
+        },
+        {
           "title": "TLDR",
           "link": "https://tldr.tech/",
           "body": "Tech, science and coding"
+        },
+        {
+          "title": "The Profile",
+          "link": "https://www.readtheprofile.com/",
+          "body": "Stories on people and companies in business, tech, sports and more"
         },
         {
             "title": "Unicorner",
@@ -180,6 +185,11 @@
           "body": "5 design links delivered weekly"
         },
         {
+          "title": "Logo Histories",
+          "link": "https://www.logohistories.com/",
+          "body": "Logo Archive's logo histories"
+        },
+        {
           "title": "The History of the Web",
           "link": "https://thehistoryoftheweb.com/",
           "body": "The history of the web and people behind it"
@@ -203,6 +213,11 @@
           "title": "Tiptoptypetips",
           "link": "https://tiptoptypetips.substack.com/",
           "body": "An irregular newsletter about typography"
+        },
+        {
+          "title": "Today in Design",
+          "link": "https://www.todayin.design/",
+          "body": "Designer news, delivered daily"
         },
         {
           "title": "User Onboard",
@@ -243,6 +258,21 @@
           "title": "Would you Rather",
           "link": "https://wouldyourather.fun/",
           "body": "Weekly(ish) illustrated would you rather scenarios"
+        }
+      ]
+    },
+    {
+      "heading": "Travel",
+      "rows": [
+        {
+          "title": "Out of Office",
+          "link": "https://12hrs.net/newsletter",
+          "body": "A weekly, short getaway in your inbox"
+        },
+        {
+          "title": "Outta Town",
+          "link": "https://www.outta.town/",
+          "body": "Curating beautiful homes across Europe"
         }
       ]
     }
