@@ -5,7 +5,7 @@ const FooterComponent = () => {
   return (
     <Footer>
       <p>
-        &copy; 2024 / Say hey @{" "}
+        &copy; 2025 / Say hey @{" "}
         <a href="https://cassandratang.com">cassandratang.com</a>
       </p>
     </Footer>
