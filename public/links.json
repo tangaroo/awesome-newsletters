@@ -3,6 +3,11 @@
       "heading": "General Topics",
       "rows": [
         {
+          "title": "AI Weekly",
+          "link": "https://aiweekly.co/",
+          "body": "Discover what AI experts are reading and sharing right now"
+        },
+        {
           "title": "10 Things",
           "link": "https://10.yourmajesty.co/",
           "body": "For curious people, by Your Majesty Co."
@@ -64,7 +69,7 @@
         }
       ]
     },
-  
+
     {
       "heading": "Product",
       "rows": [
@@ -135,7 +140,7 @@
           }
       ]
     },
-  
+
     {
       "heading": "Design & Code",
       "rows": [
@@ -277,4 +282,4 @@
       ]
     }
   ]
-  
+
